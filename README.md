@@ -14,6 +14,9 @@ git clone https://github.com/gmohmad/Y_lab_FastAPI.git
 активируйте окружение
 venv\Scripts\activate.bat - для Windows;
 source venv/bin/activate - для Linux и MacOS.
+
+установите зависимости pip install -r requirements.txt
+
 зайдите в файл database.py
 измените строку DATABASE_URL = "postgresql+asyncpg://postgres:123tyklty@localhost:5432/postgres" под вашу базу
 должно получиться так: DATABASE_URL = "postgresql+asyncpg://USER:PASS@HOST:PORT/NAME"
