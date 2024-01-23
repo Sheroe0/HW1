@@ -1,6 +1,6 @@
 from uuid import UUID
 from fastapi import APIRouter, Depends, status, HTTPException
-from sqlalchemy import select, insert, func
+from sqlalchemy import select, insert
 from sqlalchemy.ext.asyncio import AsyncSession
 from typing import List, Optional
 
