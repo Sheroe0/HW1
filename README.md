@@ -2,7 +2,7 @@
 
 ## 1. Склонируйте репозиторий
 ```
-git clone https://github.com/Sheroe0/HW.git
+git clone https://github.com/Sheroe0/HW1.git
 ```
 ## 2. Подготовьте базу данных (PostgreSQL)
 ```
